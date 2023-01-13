@@ -18,7 +18,7 @@ body{
 
 
 .top{
-	border: solid .3rem red;
+	border: solid .3rem white;
 	background:linear-gradient(#000428,#004e92);
 	background:linear-gradient(to left,#000000,#0f900f);
 	display: flex;
