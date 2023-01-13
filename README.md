@@ -2,6 +2,6 @@
 
 ## Cyber Security Awesome Secret 
 
-#### Opensource 
+#### Opensource 💪 You rock! 🤩 👍 
 
-###### d3ji×
+###### d3ji× ✅
