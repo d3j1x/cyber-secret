@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<h2 style="text-align: left;color: blue">Auto Refresh the Page</h2>
+	<h2 style="text-align: left;color: green;">Auto Refresh the Page</h2>
 	<!--Start Header-->
 	<header>
 		<div class="top">
@@ -21,7 +21,7 @@
 	<!--Ends  Header-->
 
 
-
+	<iframe src="https://portfolio-d3j1x.vercel.app/" width="100%" height="300px"></iframe>
 	<!--Start Navbar-->
 	<nav>
 
@@ -81,7 +81,7 @@ let timer= 1;
 	setInterval(() => {
     document.querySelector('h2').innerText= timer;
     timer++;
-    if(timer >5)
+    if(timer >10)
     location.reload();                            
 }, 1000);
 </script>
