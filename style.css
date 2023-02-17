@@ -1,5 +1,4 @@
 
-
 *{
 	padding:0;
 	margin:0;
@@ -18,11 +17,16 @@ body{
 
 
 .top{
-	border: solid .3rem white;
-	background:linear-gradient(#000428,#004e92);
-	background:linear-gradient(to left,#000000,#0f900f);
+	
+	background-color:black;
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
-	color:white;
+	color:#3DFF33;
+}
+
+h6{
+  font-size:1.2rem;
+  background-color:black;
+  color:#FFF533;
 }
